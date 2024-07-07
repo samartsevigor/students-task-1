@@ -1,0 +1,8 @@
+.ErrorComponent {
+  background-color: #ac3838;
+  color: #fff;
+  padding: 0.5em 1em;
+  border-radius: 8px;
+  margin-top: 20px;
+  text-align: center;
+}
